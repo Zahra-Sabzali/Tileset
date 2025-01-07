@@ -1,0 +1,176 @@
+{
+	"asset" : {
+		"version" : "1.0"
+	},
+	"properties" : {
+		"gml_id" : {},
+		"gml_parent_id" : {},
+		"citygml_target_uri" : {},
+		"citygml_feature_role" : {},
+		"citygml_feature_role_attr_name" : {},
+		"citygml_feature_role_attr_val" : {},
+		"gml_description" : {},
+		"gml_name" : {},
+		"citygml_address" : {},
+		"citygml_creationDate" : {},
+		"citygml_terminationDate" : {},
+		"externalReference{}.externalObject.name" : {},
+		"externalReference{}.externalObject.uri" : {},
+		"externalReference{}.informationSystem" : {},
+		"citygml_generalizes_to{}.xlink_href" : {},
+		"citygml_relative_to_terrain" : {},
+		"citygml_relative_to_water" : {},
+		"citygml_appearance{}.xlink_href" : {},
+		"citygml_class" : {},
+		"citygml_class_codeSpace" : {},
+		"citygml_function{}" : {},
+		"citygml_function{}.codeSpace" : {},
+		"citygml_usage{}" : {},
+		"citygml_usage{}.codeSpace" : {},
+		"citygml_year_of_construction" : {},
+		"citygml_year_of_demolition" : {},
+		"citygml_roof_type" : {},
+		"citygml_roof_type_codeSpace" : {},
+		"citygml_measured_height" : {},
+		"citygml_measured_height_units" : {},
+		"citygml_storeys_above_ground" : {},
+		"citygml_storeys_below_ground" : {},
+		"citygml_storey_heights_above_ground" : {},
+		"citygml_storey_heights_above_ground_units" : {},
+		"citygml_storey_heights_below_ground" : {},
+		"citygml_storey_heights_below_ground_units" : {},
+		"citygml_outer_building_installation{}.xlink_href" : {},
+		"citygml_interior_building_installation{}.xlink_href" : {},
+		"citygml_bounded_by{}.xlink_href" : {},
+		"citygml_level_of_detail{}" : {},
+		"citygml_interior_room{}.xlink_href" : {},
+		"citygml_consists_of_building_part{}.xlink_href" : {},
+		"citygml_address{}.xlink_href" : {},
+		"ANZ_LOC" : {},
+		"DENKMALART" : {},
+		"DENK_ID" : {},
+		"EIG_KL_PV" : {},
+		"EIG_KL_ST" : {},
+		"FOLIE" : {},
+		"GMDE" : {},
+		"HNR" : {},
+		"H_First_Max" : {},
+		"H_First_Min" : {},
+		"H_Trauf_Max" : {},
+		"H_Trauf_Min" : {},
+		"KREIS" : {},
+		"Kachel" : {},
+		"LAND" : {},
+		"LFD" : {},
+		"OAR" : {},
+		"RBEZ" : {},
+		"STR" : {},
+		"TexVersion" : {},
+		"citygml_city_object_member{}.xlink_href" : {},
+		"citygml_appearance_member{}.xlink_href" : {},
+		"gml_feature_member{}.xlink_href" : {},
+		"citygml_opening{}.xlink_href" : {}
+	},
+	"geometricError" : 18947071.381682634,
+	"root" : {
+		"boundingVolume" : {
+			"region" : [ 6812.829080649323, 101614.19545484167, 6818.117792815773, 101622.16084754874, 36.7299995422363, 118.75 ]
+		},
+		"geometricError" : 18947071.381682634,
+		"refine" : "REPLACE",
+		"content" : {
+			"boundingVolume" : {
+				"region" : [ 6812.829080649323, 101614.19545484167, 6818.117792815773, 101622.16084754874, 36.7299995422363, 118.75 ]
+			},
+			"uri" : "data/data6.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"region" : [ 6813.511276382992, 101618.1781511952, 6818.117792815773, 101622.16084754874, 36.7299995422363, 86.2 ]
+				},
+				"geometricError" : 18947071.381682634,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 6813.511276382992, 101619.18941936873, 6818.117792815773, 101622.16084754874, 36.7299995422363, 86.2 ]
+					},
+					"uri" : "data/data2.b3dm"
+				},
+				"children" : [
+					{
+						"boundingVolume" : {
+							"region" : [ 6813.511276382992, 101618.1781511952, 6818.117792815773, 101622.16084754874, 36.7299995422363, 86.2 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 6813.511276382992, 101619.18941936873, 6818.117792815773, 101622.16084754874, 36.7299995422363, 86.2 ]
+							},
+							"uri" : "data/data0.b3dm"
+						},
+						"children" : []
+					},
+					{
+						"boundingVolume" : {
+							"region" : [ 6813.511276382992, 101618.1781511952, 6818.117792815773, 101622.16084754874, 36.7299995422363, 36.7299995422363 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 6813.511276382992, 101619.18941936873, 6818.117781910344, 101622.16083137128, 36.7299995422363, 36.7299995422363 ]
+							},
+							"uri" : "data/data1.b3dm"
+						},
+						"children" : []
+					}
+				]
+			},
+			{
+				"boundingVolume" : {
+					"region" : [ 6812.829080649323, 101614.19545484167, 6815.473436732547, 101618.1781511952, 36.75, 118.75 ]
+				},
+				"geometricError" : 6849664.744079926,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 6812.829080649323, 101614.19545484167, 6813.782270014493, 101615.26620376352, 36.75, 118.75 ]
+					},
+					"uri" : "data/data5.b3dm"
+				},
+				"children" : [
+					{
+						"boundingVolume" : {
+							"region" : [ 6812.829080649323, 101614.19545484167, 6815.473436732547, 101618.1781511952, 36.75, 118.75 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 6812.829080649323, 101614.19545484167, 6813.782270014493, 101615.26620376352, 36.75, 118.75 ]
+							},
+							"uri" : "data/data3.b3dm"
+						},
+						"children" : []
+					},
+					{
+						"boundingVolume" : {
+							"region" : [ 6812.829080649323, 101614.19545484167, 6815.473436732547, 101618.1781511952, 36.75, 118.75 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 6812.829080649323, 101614.19545484167, 6813.782270014493, 101615.26620376352, 36.75, 118.75 ]
+							},
+							"uri" : "data/data4.b3dm"
+						},
+						"children" : []
+					}
+				]
+			}
+		]
+	}
+}
